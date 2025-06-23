@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Attendance System Backend
 
 A full-featured backend for an attendance and workforce management application, built with **NestJS**, **Prisma**, and **PostgreSQL**.
@@ -102,4 +102,4 @@ Visit [http://localhost:3000/api/docs](http://localhost:3000/api/docs) for Swagg
 MIT 
 =======
 # serv_backend
->>>>>>> 304958c0a8d732914855ad3187846982c070ae92
+
